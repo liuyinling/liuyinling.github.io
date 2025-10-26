@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an associate professor in Industrial Engineering in the laboratory CRAN at the Université de Lorraine since 2022. Before joining CRAN, I was a two-year postdoctoral researcher at the Université Toulouse 3 Paul-Sabatier, supervised by Prof. [Jean-Michel BRUEL](https://jmbruel.netlify.app/). From 2016 to 2019, I pursued my Ph.D. at INSA Lyon, supervised by Prof. [Vincent CHEUTET](https://www.disp-lab.fr/user/82), Prof. [Tao WANG](https://www.disp-lab.fr/user/76), and Associate Prof. Haiqing ZHANG. Prior to embarking on my doctoral studies, I completed my master’s degree from the Nanjing University of Aeronautics and Astronautics, where I was supervised by Associate Professor [Guohua Shen](https://faculty.nuaa.edu.cn/sgh/en/index.htm) and Prof. [Zhiqiu Huang](https://faculty.nuaa.edu.cn/hzq/en/index.htm). I obtained my bachelor's degree from Anhui University of Technology.
+I am an associate professor in Industrial Engineering in the laboratory CRAN at the Université de Lorraine since 2022. Before joining CRAN, I was a two-year postdoctoral researcher at the Université Toulouse 3 Paul-Sabatier, supervised by Prof. [Jean-Michel BRUEL](https://jmbruel.netlify.app/). From 2016 to 2019, I pursued my Ph.D. at INSA Lyon, supervised by Prof. [Vincent CHEUTET](https://www.disp-lab.fr/user/82), Prof. [Tao WANG](https://www.disp-lab.fr/user/76), and Associate Prof. Haiqing ZHANG. Prior to embarking on my doctoral studies, I completed my master’s degree from the Nanjing University of Aeronautics and Astronautics, where I was supervised by Associate Prof. [Guohua Shen](https://faculty.nuaa.edu.cn/sgh/en/index.htm) and Prof. [Zhiqiu Huang](https://faculty.nuaa.edu.cn/hzq/en/index.htm). I obtained my bachelor's degree from Anhui University of Technology.
 
 My research interest includes DET(Digital Ethical Twin), LLM(Large Language Model), and Formal verification.
 
@@ -25,9 +25,14 @@ My research interest includes DET(Digital Ethical Twin), LLM(Large Language Mode
 # 🔥 News
 - *11/2025*: &nbsp;🎉🎉 I am looking a postdoc researcher working on [Ontology-driven Knowledge Base Development for Ethical Factor Identification](https://www.abg.asso.fr/fr/recruteurOffres/show/id_offre/133686). 
 - *11/2025*: &nbsp;🎉🎉 I am going to give a talk on ethics at the [Ecole d'hiver IMS² 2025](http://ims2.cran.univ-lorraine.fr/node/59).
-. 
 
-# 📝 Publications 
+# 📝 Main research projects 
+
+- *10/2025 - 10/2029*: &nbsp;🎉🎉 ANR JCJC DET - Digital Ethical Twins for CPS-based smart manufacturing.
+
+
+
+# 📚 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
