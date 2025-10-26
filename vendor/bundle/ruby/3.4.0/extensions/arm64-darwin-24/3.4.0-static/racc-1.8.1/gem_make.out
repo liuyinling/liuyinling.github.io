@@ -1,0 +1,19 @@
+current directory: /Users/yinlingliu/Git/liuyinling.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+/Users/yinlingliu/.rubies/ruby-3.4.1/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/yinlingliu/Git/liuyinling.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251026-76759-t9il59 sitelibdir\=./.gem.20251026-76759-t9il59 clean
+
+current directory: /Users/yinlingliu/Git/liuyinling.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251026-76759-t9il59 sitelibdir\=./.gem.20251026-76759-t9il59
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+ld: warning: search path '/opt/homebrew/opt/gdbm/lib' not found
+
+current directory: /Users/yinlingliu/Git/liuyinling.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251026-76759-t9il59 sitelibdir\=./.gem.20251026-76759-t9il59 install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20251026-76759-t9il59/racc
+
+current directory: /Users/yinlingliu/Git/liuyinling.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251026-76759-t9il59 sitelibdir\=./.gem.20251026-76759-t9il59 clean
