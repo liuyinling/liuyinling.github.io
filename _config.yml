@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yinling LIU"
-description              : "Associate Professor in Industrial Engineering in the lab of CRAN   Focus on digital ethical twins, fundamental models, and formal verification."
+description              : "Associate Professor in Industrial Engineering"
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yinling LIU"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/IMG_8846-min.png"
   bio              : "Université de Lorraine"
   location         : "Epinal/Nancy, France"
   employer         : 
