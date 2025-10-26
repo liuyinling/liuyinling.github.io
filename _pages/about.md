@@ -17,14 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an associate professor in Industrial Engineering in the laboratory CRAN at the Université de Lorraine since 2022. Before joining CRAN, I was a postdoctoral researcher at the Université Toulouse 3 Paul-Sabatier, supervised by Prof. [Jean-Michel BRUEL](https://jmbruel.netlify.app/).
+I am an associate professor in Industrial Engineering in the laboratory CRAN at the Université de Lorraine since 2022. Before joining CRAN, I was a two-year postdoctoral researcher at the Université Toulouse 3 Paul-Sabatier, supervised by Prof. [Jean-Michel BRUEL](https://jmbruel.netlify.app/). From 2016 to 2019, I pursued my Ph.D. at INSA Lyon, supervised by Prof. [Vincent CHEUTET](https://www.disp-lab.fr/user/82), Prof. [Tao WANG](https://www.disp-lab.fr/user/76), and Associate Prof. Haiqing ZHANG. Prior to embarking on my doctoral studies, I completed my master’s degree from the Nanjing University of Aeronautics and Astronautics, where I was supervised by Associate Professor [Guohua Shen](https://faculty.nuaa.edu.cn/sgh/en/index.htm) and Prof. [Zhiqiu Huang](https://faculty.nuaa.edu.cn/hzq/en/index.htm). I obtained my bachelor's degree from Anhui University of Technology.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes DET(Digital Ethical Twin), LLM(Large Language Model), and Formal verification.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *11/2025*: &nbsp;🎉🎉 I am looking a postdoc researcher working on Ontology-driven Knowledge Base Development for Ethical Factor Identification(https://www.abg.asso.fr/fr/recruteurOffres/show/id_offre/133686). 
+- *11/2025*: &nbsp;🎉🎉 I am going to give a talk on ethics at the [Ecole d'hiver IMS² 2025](http://ims2.cran.univ-lorraine.fr/node/59).
+. 
 
 # 📝 Publications 
 
