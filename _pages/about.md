@@ -28,11 +28,27 @@ My research interest includes DET(Digital Ethical Twin), LLM(Large Language Mode
 
 # 📝 Main research projects 
 
-- *10/2025 - 10/2029*: &nbsp;🎉🎉 ANR JCJC DET - Digital Ethical Twins for CPS-based smart manufacturing.
+- *10/2025 - 10/2029*: &nbsp; ANR JCJC DET - Digital Ethical Twins for CPS-based smart manufacturing, coordinator.
+- *2023 - 2027*: &nbsp; ADEME BYWALL - Design of a global and integrated process of thermal insulation by prefabricated exterior, participant.
+
+# 👩‍🔬 Ph.D. students
+### Ongoing Ph.D. thesis
+- *2025 - *: Chahrazad Sehrani, Digital Ethical Twins for CPS-based smart manufacturing.
+- *2023 - *: Eliott Gauthey-Franet, Surrogate model-based Combustion Optimization.
+
+# 📚 Recent Publications 
 
 
 
-# 📚 Publications 
+
+Philippe Thomas, Eliott Gauthey-Franet, Yinling Liu, Hind Bril El Haouzi, Yann Rogaume. MLP model for prediction of pellet combustion: how to deal with small datasets. NCTA'25 17th International Conference on Neural Computation Theory and Application, insticc, Oct 2025, Marbella, Spain. ⟨hal-05322849⟩
+
+
+Eliott Gauthey-Franet, Yinling Liu, Hind Bril El Haouzi, Yann Rogaume, A Surrogate model-based combustion optimization for pellet stoves, NCTA'25 17th International Conference on Neural Computation Theory and Application, insticc, Oct 2025, Marbella, Spain.
+
+# 📚 Recent Publications 
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
