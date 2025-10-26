@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yinling LIU"
-description              : "Associate Professor in Industrial Engineering in the lab of CRAN"
+description              : "Associate Professor in Industrial Engineering in the lab of CRAN \n Focus on digital ethical twins, fundamental models, and formal verification."
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -25,11 +25,11 @@ author:
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Université de Lorraine"
   location         : "Epinal/Nancy, France"
-  employer         : "Université de Lorraine"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=GOOGLE_SCHOLAR_ID"
-  email            : "firstname.lastname@univ-lorraine.fr"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  email            : "yinling.liu@univ-lorraine.fr"
+  researchgate     : "https://www.researchgate.net/profile/Yinling-Liu"
   uri              :
   bitbucket        :
   codepen          :
