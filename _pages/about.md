@@ -33,20 +33,25 @@ My research interest includes DET(Digital Ethical Twin), LLM(Large Language Mode
 
 # 👩‍🔬 Ph.D. students
 ### Ongoing Ph.D. thesis
-- *2025 - *: Chahrazad Sehrani, Digital Ethical Twins for CPS-based smart manufacturing.
-- *2023 - *: Eliott Gauthey-Franet, Surrogate model-based Combustion Optimization.
+- 10/2025 - : Chahrazad Sehrani, Digital Ethical Twins for CPS-based smart manufacturing.
+- 03/2023 - : Eliott Gauthey-Franet, Surrogate model-based Combustion Optimization.
 
 # 📚 Recent Publications 
 
 
 
+### Conference papers
+- Philippe Thomas, Eliott Gauthey-Franet, Yinling Liu, Hind Bril El Haouzi, Yann Rogaume. [MLP model for prediction of pellet combustion: how to deal with small datasets.] (https://hal.science/CRAN/hal-05322849v1) [NCTA'25] (https://ncta.scitevents.org/) 17th International Conference on Neural Computation Theory and Application, insticc, Oct 2025, Marbella, Spain.
 
-Philippe Thomas, Eliott Gauthey-Franet, Yinling Liu, Hind Bril El Haouzi, Yann Rogaume. MLP model for prediction of pellet combustion: how to deal with small datasets. NCTA'25 17th International Conference on Neural Computation Theory and Application, insticc, Oct 2025, Marbella, Spain. ⟨hal-05322849⟩
 
+- Eliott Gauthey-Franet, Yinling Liu, Hind Bril El Haouzi, Yann Rogaume, A Surrogate model-based combustion optimization for pellet stoves, [NCTA'25] (https://ncta.scitevents.org/) 17th International Conference on Neural Computation Theory and Application, insticc, Oct 2025, Marbella, Spain.
 
-Eliott Gauthey-Franet, Yinling Liu, Hind Bril El Haouzi, Yann Rogaume, A Surrogate model-based combustion optimization for pellet stoves, NCTA'25 17th International Conference on Neural Computation Theory and Application, insticc, Oct 2025, Marbella, Spain.
+### Journal papers
+- Li Huang, Sophie Ebersold, Alexander Kogtenkov, Bertrand Meyer, Yinling Liu, Lessons from Formally Verified Deployed Software Systems, ACM Computing Survey (just accepted)
 
-# 📚 Recent Publications 
+- Yinling Liu and Jean-Michel Bruel. 2024. Modeling and Verification of Natural Language Requirements based on States and Modes. Form. Asp. Comput. 36, 2, Article 9 (June 2024), 47 pages. https://doi.org/10.1145/3640822
+
+# 📚 Publications 
 
 
 
