@@ -21,11 +21,12 @@ I am an associate professor in Industrial Engineering in the laboratory CRAN (Ce
 
 My research interest includes DET(Digital Ethical Twin), LLM(Large Language Model), and Formal verification.
 
-
+<span class='anchor' id='-news'></span>
 # 🔥 News
 - *11/2025*: &nbsp;🎉🎉 I am looking a postdoc researcher working on [Ontology-driven Knowledge Base Development for Ethical Factor Identification](https://www.abg.asso.fr/fr/recruteurOffres/show/id_offre/133686). 
 - *11/2025*: &nbsp;🎉🎉 I am going to give a talk on ethics at the [Ecole d'hiver IMS² 2025](http://ims2.cran.univ-lorraine.fr/node/59).
 
+<span class='anchor' id='-research-projects'></span>
 # 📝 Main research projects 
 
 - *10/2025 - 10/2029*: &nbsp; ANR JCJC DET - Digital Ethical Twins for CPS-based smart manufacturing, **coordinator**.
@@ -36,6 +37,7 @@ My research interest includes DET(Digital Ethical Twin), LLM(Large Language Mode
 - 10/2025 - : Chahrazad Sehrani, Digital Ethical Twins for CPS-based smart manufacturing.
 - 03/2023 - : Eliott Gauthey-Franet, Surrogate model-based Combustion Optimization.
 
+<span class='anchor' id='-publications'></span>
 # 📚 Recent Publications 
 
 
@@ -50,3 +52,7 @@ My research interest includes DET(Digital Ethical Twin), LLM(Large Language Mode
 - Li Huang, Sophie Ebersold, Alexander Kogtenkov, Bertrand Meyer, **Yinling Liu**, Lessons from Formally Verified Deployed Software Systems, ACM Computing Surveys (**just accepted**)
 
 - **Yinling Liu** and Jean-Michel Bruel. 2024. [Modeling and Verification of Natural Language Requirements based on States and Modes.](https://doi.org/10.1145/3640822) Form. Asp. Comput. 36, 2, Article 9 (June 2024), 47 pages. https://doi.org/10.1145/3640822
+
+<span class='anchor' id='-professional-services'></span>
+# Professional Services
+- Reviewer of JOS, RESS, SoSYM, ESOP, IFAC, IEEE SMC, etc.

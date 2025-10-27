@@ -9,6 +9,9 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
+  - title: "Research Projects"
+    url: "/#--research-projects"
+
   - title: "Professional Services"
     url: "/#-professional-services"
 
