@@ -53,5 +53,6 @@ My research interest includes DET(Digital Ethical Twin), LLM(Large Language Mode
 - **Yinling Liu** and Jean-Michel Bruel. 2024. [Modeling and Verification of Natural Language Requirements based on States and Modes.](https://doi.org/10.1145/3640822) Form. Asp. Comput. 36, 2, Article 9 (June 2024), 47 pages. https://doi.org/10.1145/3640822
 
 <span class='anchor' id='-professional-services'></span>
-# Professional Services
+
+# 💼 Professional Services
 - Reviewer of JOS, RESS, SoSYM, ESOP, IFAC, IEEE SMC, etc.
