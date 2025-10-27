@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an associate professor in Industrial Engineering in the laboratory CRAN at the Université de Lorraine since 2022. Before joining CRAN, I was a two-year postdoctoral researcher at the Université Toulouse 3 Paul-Sabatier, supervised by Prof. [Jean-Michel BRUEL](https://jmbruel.netlify.app/). From 2016 to 2019, I pursued my Ph.D. at INSA Lyon, supervised by Prof. [Vincent CHEUTET](https://www.disp-lab.fr/user/82), Prof. [Tao WANG](https://www.disp-lab.fr/user/76), and Associate Prof. Haiqing ZHANG. Prior to embarking on my doctoral studies, I completed my master’s degree from the Nanjing University of Aeronautics and Astronautics, where I was supervised by Associate Prof. [Guohua Shen](https://faculty.nuaa.edu.cn/sgh/en/index.htm) and Prof. [Zhiqiu Huang](https://faculty.nuaa.edu.cn/hzq/en/index.htm). I obtained my bachelor's degree from Anhui University of Technology.
+I am an associate professor in Industrial Engineering in the laboratory CRAN (Centre de Recherche en Automatique de Nancy) at the Université de Lorraine since 2022. Before joining CRAN, I was a two-year postdoctoral researcher at the Université Toulouse 3 Paul-Sabatier, supervised by Prof. [Jean-Michel BRUEL](https://jmbruel.netlify.app/). From 2016 to 2019, I pursued my Ph.D. at INSA Lyon, supervised by Prof. [Vincent CHEUTET](https://www.disp-lab.fr/user/82), Prof. [Tao WANG](https://www.disp-lab.fr/user/76), and Associate Prof. Haiqing ZHANG. Prior to embarking on my doctoral studies, I completed my master’s degree from the Nanjing University of Aeronautics and Astronautics, where I was supervised by Associate Prof. [Guohua Shen](https://faculty.nuaa.edu.cn/sgh/en/index.htm) and Prof. [Zhiqiu Huang](https://faculty.nuaa.edu.cn/hzq/en/index.htm). I obtained my bachelor's degree from Anhui University of Technology.
 
 My research interest includes DET(Digital Ethical Twin), LLM(Large Language Model), and Formal verification.
 
@@ -28,8 +28,8 @@ My research interest includes DET(Digital Ethical Twin), LLM(Large Language Mode
 
 # 📝 Main research projects 
 
-- *10/2025 - 10/2029*: &nbsp; ANR JCJC DET - Digital Ethical Twins for CPS-based smart manufacturing, coordinator.
-- *2023 - 2027*: &nbsp; ADEME BYWALL - Design of a global and integrated process of thermal insulation by prefabricated exterior, participant.
+- *10/2025 - 10/2029*: &nbsp; ANR JCJC DET - Digital Ethical Twins for CPS-based smart manufacturing, **coordinator**.
+- *2023 - 2027*: &nbsp; ADEME BYWALL - Design of a global and integrated process of thermal insulation by prefabricated exterior, **participant**.
 
 # 👩‍🔬 Ph.D. Thesis Supervision
 ### Ongoing Ph.D. thesis
@@ -47,7 +47,7 @@ My research interest includes DET(Digital Ethical Twin), LLM(Large Language Mode
 - Eliott Gauthey-Franet, **Yinling Liu**, Hind Bril El Haouzi, Yann Rogaume, A Surrogate model-based combustion optimization for pellet stoves, [NCTA'25](https://ncta.scitevents.org/) 17th International Conference on Neural Computation Theory and Application, insticc, Oct 2025, Marbella, Spain.
 
 ### Journal papers
-- Li Huang, Sophie Ebersold, Alexander Kogtenkov, Bertrand Meyer, **Yinling Liu**, Lessons from Formally Verified Deployed Software Systems, ACM Computing Survey (just accepted)
+- Li Huang, Sophie Ebersold, Alexander Kogtenkov, Bertrand Meyer, **Yinling Liu**, Lessons from Formally Verified Deployed Software Systems, ACM Computing Surveys (**just accepted**)
 
 - **Yinling Liu** and Jean-Michel Bruel. 2024. [Modeling and Verification of Natural Language Requirements based on States and Modes.](https://doi.org/10.1145/3640822) Form. Asp. Comput. 36, 2, Article 9 (June 2024), 47 pages. https://doi.org/10.1145/3640822
 
@@ -83,3 +83,6 @@ My research interest includes DET(Digital Ethical Twin), LLM(Large Language Mode
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
+**Page views:**  
+![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://liuyinling.github.io/about&count_bg=%230055CC&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false)
