@@ -32,6 +32,7 @@ My research interest includes DET(Digital Ethical Twin), LLM(Large Language Mode
 - *10/2025 - 10/2029*: &nbsp; ANR JCJC DET - Digital Ethical Twins for CPS-based smart manufacturing, **coordinator**.
 - *2023 - 2027*: &nbsp; ADEME BYWALL - Design of a global and integrated process of thermal insulation by prefabricated exterior, **participant**.
 
+<span class='anchor' id='-thesis-supervision'></span>
 # 👩‍🔬 Ph.D. Thesis Supervision
 ### Ongoing Ph.D. thesis
 - 10/2025 - : Chahrazad Sehrani, Digital Ethical Twins for CPS-based smart manufacturing.
@@ -39,8 +40,6 @@ My research interest includes DET(Digital Ethical Twin), LLM(Large Language Mode
 
 <span class='anchor' id='-publications'></span>
 # 📚 Recent Publications 
-
-
 
 ### Conference papers
 - Philippe Thomas, Eliott Gauthey-Franet, **Yinling Liu**, Hind Bril El Haouzi, Yann Rogaume. [MLP model for prediction of pellet combustion: how to deal with small datasets.](https://hal.science/CRAN/hal-05322849v1) [NCTA'25](https://ncta.scitevents.org/) 17th International Conference on Neural Computation Theory and Application, insticc, Oct 2025, Marbella, Spain.

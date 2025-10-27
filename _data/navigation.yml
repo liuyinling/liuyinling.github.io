@@ -6,11 +6,14 @@ main:
   - title: "News"
     url: "/#-news"
 
+  - title: "Research Projects"
+    url: "/#-research-projects"
+
+  - title: "Thesis Supervision"
+    url: "/#-thesis-supervision"
+
   - title: "Publications"
     url: "/#-publications"
-
-  - title: "Research Projects"
-    url: "/#--research-projects"
 
   - title: "Professional Services"
     url: "/#-professional-services"
