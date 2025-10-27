@@ -85,4 +85,12 @@ My research interest includes DET(Digital Ethical Twin), LLM(Large Language Mode
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 
 **Page views:**  
-![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://liuyinling.github.io/about&count_bg=%230055CC&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false)
+<div align="center">
+
+**Page views**
+
+<a href="https://hits.seeyoufarm.com">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://liuyinling.github.io/about&count_bg=%230055CC&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false"/>
+</a>
+
+</div>
