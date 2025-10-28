@@ -23,14 +23,14 @@ My research interest includes DET(Digital Ethical Twin), LLM(Large Language Mode
 
 <span class='anchor' id='-news'></span>
 # 🔥 News
-- *11/2025*: &nbsp; I am looking a postdoc researcher working on [Ontology-driven Knowledge Base Development for Ethical Factor Identification](https://www.abg.asso.fr/fr/recruteurOffres/show/id_offre/133686). 
-- *11/2025*: &nbsp; I am going to give a talk on ethics at the [Ecole d'hiver IMS² 2025](http://ims2.cran.univ-lorraine.fr/node/59).
+- 11/2025: &nbsp; I am looking for a postdoc researcher working on [Ontology-driven Knowledge Base Development for Ethical Factor Identification](https://www.abg.asso.fr/fr/recruteurOffres/show/id_offre/133686). 
+- 11/2025: &nbsp; I am going to give a talk on ethics at the [Ecole d'hiver IMS² 2025](http://ims2.cran.univ-lorraine.fr/node/59).
 
 <span class='anchor' id='-research-projects'></span>
-# 📝 Main research projects 
+# 📝 Main Research Projects 
 
-- *10/2025 - 10/2029*: &nbsp; ANR JCJC DET - Digital Ethical Twins for CPS-based smart manufacturing, **coordinator**.
-- *2023 - 2027*: &nbsp; ADEME BYWALL - Design of a global and integrated process of thermal insulation by prefabricated exterior, **participant**.
+- 10/2025 - 10/2029: &nbsp; ANR JCJC DET - Digital Ethical Twins for CPS-based smart manufacturing, **coordinator**.
+- 01/2023 - 01/2027: &nbsp; ADEME BYWALL - Design of a global and integrated process of thermal insulation by prefabricated exterior, **participant**.
 
 <span class='anchor' id='-thesis-supervision'></span>
 # 👩‍🔬 Ph.D. Thesis Supervision
@@ -48,7 +48,7 @@ My research interest includes DET(Digital Ethical Twin), LLM(Large Language Mode
 - Eliott Gauthey-Franet, **Yinling Liu**, Hind Bril El Haouzi, Yann Rogaume, A Surrogate model-based combustion optimization for pellet stoves, [NCTA'25](https://ncta.scitevents.org/) 17th International Conference on Neural Computation Theory and Application, insticc, Oct 2025, Marbella, Spain.
 
 ### Journal papers
-- Li Huang, Sophie Ebersold, Alexander Kogtenkov, Bertrand Meyer, **Yinling Liu**, Lessons from Formally Verified Deployed Software Systems, ACM Computing Surveys (**just accepted**)
+- Li Huang, Sophie Ebersold, Alexander Kogtenkov, Bertrand Meyer, **Yinling Liu**, [Lessons from Formally Verified Deployed Software Systems](https://se.inf.ethz.ch/~meyer/publications/proofs/deployed_short.pdf), ACM Computing Surveys (**just accepted**)
 
 - **Yinling Liu** and Jean-Michel Bruel. 2024. [Modeling and Verification of Natural Language Requirements based on States and Modes.](https://doi.org/10.1145/3640822) Form. Asp. Comput. 36, 2, Article 9 (June 2024), 47 pages. https://doi.org/10.1145/3640822
 
