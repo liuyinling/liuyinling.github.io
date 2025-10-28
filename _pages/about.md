@@ -23,8 +23,8 @@ My research interest includes DET(Digital Ethical Twin), LLM(Large Language Mode
 
 <span class='anchor' id='-news'></span>
 # 🔥 News
-- *11/2025*: &nbsp;🎉🎉 I am looking a postdoc researcher working on [Ontology-driven Knowledge Base Development for Ethical Factor Identification](https://www.abg.asso.fr/fr/recruteurOffres/show/id_offre/133686). 
-- *11/2025*: &nbsp;🎉🎉 I am going to give a talk on ethics at the [Ecole d'hiver IMS² 2025](http://ims2.cran.univ-lorraine.fr/node/59).
+- *11/2025*: &nbsp; I am looking a postdoc researcher working on [Ontology-driven Knowledge Base Development for Ethical Factor Identification](https://www.abg.asso.fr/fr/recruteurOffres/show/id_offre/133686). 
+- *11/2025*: &nbsp; I am going to give a talk on ethics at the [Ecole d'hiver IMS² 2025](http://ims2.cran.univ-lorraine.fr/node/59).
 
 <span class='anchor' id='-research-projects'></span>
 # 📝 Main research projects 
