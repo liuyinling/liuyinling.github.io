@@ -23,8 +23,8 @@ Currently, my research interests center on ethics in smart manufacturing, with a
 
 <span class='anchor' id='-news'></span>
 # 🔥 News
-- 11/2025: &nbsp; I am looking for a postdoc researcher working on <a href="Postdoc_ontology.pdf" target="_blank">Ontology-driven Knowledge Base Development for Ethical Factor Identification</a>. 
-- 11/2025: &nbsp; I am going to give a talk on ethics at the [Ecole d'hiver IMS² 2025](http://ims2.cran.univ-lorraine.fr/node/59). You can find the slides <a href="Ecole_hiver.pdf" target="_blank">here</a>.
+- 01/2025: &nbsp; I am looking for a Ph.D. candidate working on <a href="Subject_of_thesis.pdf" target="_blank">Formal Verification of Digital Twins Systems</a>. 
+
 
 <span class='anchor' id='-research-projects'></span>
 # 📝 Main Research Projects 
@@ -53,6 +53,9 @@ Currently, my research interests center on ethics in smart manufacturing, with a
 - **Yinling Liu** and Jean-Michel Bruel. 2024. [Modeling and Verification of Natural Language Requirements based on States and Modes.](https://doi.org/10.1145/3640822) Form. Asp. Comput. 36, 2, Article 9 (June 2024), 47 pages. https://doi.org/10.1145/3640822
 
 <span class='anchor' id='-professional-services'></span>
+
+# 🎤 Invited talks
+- 11/2025: &nbsp; I gave a talk on ethics at the [Ecole d'hiver IMS² 2025](http://ims2.cran.univ-lorraine.fr/node/59). You can find the slides <a href="Ecole_hiver.pdf" target="_blank">here</a>.
 
 # 💼 Professional Services
 - Reviewer of JOS, RESS, SoSYM, ESOP, IFAC, IEEE SMC, etc.
