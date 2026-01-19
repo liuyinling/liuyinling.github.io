@@ -24,7 +24,7 @@ Currently, my research interests center on ethics in smart manufacturing, with a
 <span class='anchor' id='-news'></span>
 # 🔥 News
 - 01/2025: &nbsp; I am looking for a Ph.D. candidate working on <a href="Subject_of_thesis.pdf" target="_blank">Formal Verification of Digital Twins Systems</a>. 
-
+- 01/2025: &nbsp; Our <a href="3785652.pdf" target="_blank">survey paper</a> on formally verified deployed software systems just got accepted.
 
 <span class='anchor' id='-research-projects'></span>
 # 📝 Main Research Projects 
