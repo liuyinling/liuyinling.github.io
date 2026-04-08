@@ -23,8 +23,7 @@ Currently, my research interests center on ethics in smart manufacturing, with a
 
 <span class='anchor' id='-news'></span>
 # 🔥 News
-- 02/2025: &nbsp; I am looking for a Ph.D. candidate working on <a href="Subject_of_thesis.pdf" target="_blank">Formal Verification of Digital Twins Systems</a>. 
-- 01/2025: &nbsp; Our <a href="3785652.pdf" target="_blank">survey paper</a> on formally verified deployed software systems just got accepted.
+- 04/2025: &nbsp; I am looking for a Ph.D. candidate working on <a href="Subject_of_thesis.pdf" target="_blank">Formal Verification of Digital Twins Systems</a>. 
 
 <span class='anchor' id='-research-projects'></span>
 # 📝 Main Research Projects 
@@ -37,6 +36,12 @@ Currently, my research interests center on ethics in smart manufacturing, with a
 ### Ongoing Ph.D. thesis
 - 10/2025 - : Chahrazad Sehrani, Digital Ethical Twins for CPS-based smart manufacturing.
 - 03/2023 - : Eliott Gauthey-Franet, Surrogate model-based Combustion Optimization.
+
+# 👨‍🎓 Postdoc Supervision
+### Ongoing postdoc
+- 04/2026 - : Jana Al Haj Ali, Ontology-based Ethical Scenarios Construction.
+
+
 
 <span class='anchor' id='-publications'></span>
 # 📚 Recent Publications 
