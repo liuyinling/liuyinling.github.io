@@ -23,7 +23,7 @@ Currently, my research interests center on ethics in smart manufacturing, with a
 
 <span class='anchor' id='-news'></span>
 # 🔥 News
-- 04/2025: &nbsp; I am looking for a Ph.D. candidate working on <a href="Subject_of_thesis.pdf" target="_blank">Formal Verification of Digital Twins Systems</a>. 
+- TBC 
 
 <span class='anchor' id='-research-projects'></span>
 # 📝 Main Research Projects 
@@ -34,12 +34,13 @@ Currently, my research interests center on ethics in smart manufacturing, with a
 <span class='anchor' id='-thesis-supervision'></span>
 # 👩‍🔬 Ph.D. Thesis Supervision
 ### Ongoing Ph.D. thesis
+- 10/2026 - : Rania Bouhadouza, Formal Verification of Digital Ethical Twins for CPS-based smart manufacturing.
 - 10/2025 - : Chahrazad Sehrani, Digital Ethical Twins for CPS-based smart manufacturing.
 - 03/2023 - : Eliott Gauthey-Franet, Surrogate model-based Combustion Optimization.
 
 # 👨‍🎓 Postdoc Supervision
 ### Ongoing postdoc
-- 04/2026 - : Jana Al Haj Ali, Ontology-based Ethical Scenarios Construction.
+- TBC
 
 
 
@@ -47,10 +48,10 @@ Currently, my research interests center on ethics in smart manufacturing, with a
 # 📚 Recent Publications 
 
 ### Conference papers
-- Philippe Thomas, Eliott Gauthey-Franet, **Yinling Liu**, Hind Bril El Haouzi, Yann Rogaume. [MLP model for prediction of pellet combustion: how to deal with small datasets.](https://hal.science/CRAN/hal-05322849v1) [NCTA'25](https://ncta.scitevents.org/) 17th International Conference on Neural Computation Theory and Application, insticc, Oct 2025, Marbella, Spain.
+- **LIU, Yinling** et HAOUZI, E. L. Towards the Development of Digital Ethical Twins in Smart Manufacturing: Conceptual Foundations and Research Opportunities. In : IFAC 2026. Busan, South Korea, 2026.
 
 
-- Eliott Gauthey-Franet, **Yinling Liu**, Hind Bril El Haouzi, Yann Rogaume, A Surrogate model-based combustion optimization for pellet stoves, [NCTA'25](https://ncta.scitevents.org/) 17th International Conference on Neural Computation Theory and Application, insticc, Oct 2025, Marbella, Spain.
+- SEHRANI, Chahrazad, **LIU, Yinling**, et EL-HAOUZI, Bril. Can Large Language Models Help Digital Twins Reason Ethically? A Manufacturing Case Study. In : SOHOMA 2026: 16th International Workshop on Service-Oriented, Holonic and Multi-Agent Manufacturing Systems for Industry of the Future. Springer, 2026.
 
 ### Journal papers
 - Li Huang, Sophie Ebersold, Alexander Kogtenkov, Bertrand Meyer, **Yinling Liu**, [Lessons from Formally Verified Deployed Software Systems](https://se.inf.ethz.ch/~meyer/publications/proofs/deployed_short.pdf), ACM Computing Surveys (**just accepted**)
