@@ -48,10 +48,10 @@ Currently, my research interests center on ethics in smart manufacturing, with a
 # 📚 Recent Publications 
 
 ### Conference papers
-- **LIU, Yinling** et HAOUZI, E. L. Towards the Development of Digital Ethical Twins in Smart Manufacturing: Conceptual Foundations and Research Opportunities. In : IFAC 2026. Busan, South Korea, 2026.
+- **LIU, Yinling** et HAOUZI, E. L. [Towards the Development of Digital Ethical Twins in Smart Manufacturing: Conceptual Foundations and Research Opportunities.](https://hal.science/hal-05828583/document) In : IFAC 2026. Busan, South Korea, 2026.
 
 
-- SEHRANI, Chahrazad, **LIU, Yinling**, et EL-HAOUZI, Bril. Can Large Language Models Help Digital Twins Reason Ethically? A Manufacturing Case Study. In : SOHOMA 2026: 16th International Workshop on Service-Oriented, Holonic and Multi-Agent Manufacturing Systems for Industry of the Future. Springer, 2026.
+- SEHRANI, Chahrazad, **LIU, Yinling**, et EL-HAOUZI, Bril. [Can Large Language Models Help Digital Twins Reason Ethically? A Manufacturing Case Study.](https://hal.science/hal-05826181v1/file/Can%20Large%20Language%20Models%20Help%20Digital%20Twins%20Reason%20Ethically.pdf) In : SOHOMA 2026: 16th International Workshop on Service-Oriented, Holonic and Multi-Agent Manufacturing Systems for Industry of the Future. Springer, 2026.
 
 ### Journal papers
 - Li Huang, Sophie Ebersold, Alexander Kogtenkov, Bertrand Meyer, **Yinling Liu**, [Lessons from Formally Verified Deployed Software Systems](https://se.inf.ethz.ch/~meyer/publications/proofs/deployed_short.pdf), ACM Computing Surveys (**just accepted**)
